@@ -1,3 +1,5 @@
+## taks: find the highest prime number of a given number. 
+
 def maior_primo(x):
     i = 2
 
